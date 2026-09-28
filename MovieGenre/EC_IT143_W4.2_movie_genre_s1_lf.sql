@@ -1,0 +1,1 @@
+-- Q: How many movies are in each genre?

@@ -1,0 +1,3 @@
+-- Q: How many menu items are in each category?
+
+-- A: Let's use the Categories and MenuItems tables to find out...

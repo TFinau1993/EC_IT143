@@ -1,0 +1,1 @@
+-- Q: How many menu items are in each category?
